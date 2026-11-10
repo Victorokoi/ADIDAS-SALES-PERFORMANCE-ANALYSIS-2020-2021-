@@ -160,3 +160,6 @@ Based on the findings, the following recommendations are proposed:
 ## Tools and Technologies
 •	Microsoft Excel – Data preparation and exploration.
 •	Microsoft Power BI – Data modelling, analysis, and interactive visualisation.
+
+## 
+
