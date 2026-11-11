@@ -161,5 +161,14 @@ Based on the findings, the following recommendations are proposed:
 •	Microsoft Excel – Data preparation and exploration.
 •	Microsoft Power BI – Data modelling, analysis, and interactive visualisation.
 
-## 
 
+## Dashboard Screenshots
+
+### 1. Sales Overview
+![Adidas Sales Overview](Images/Adidas_Overview_2021.png)
+
+### 2. Sales Performance
+![Adidas Sales Performance](Images/Adidas_Sales_Performance.png)
+
+### 3. Regional Analysis
+![Regional Sales Analysis](Images/Regional_Analysis.png)
