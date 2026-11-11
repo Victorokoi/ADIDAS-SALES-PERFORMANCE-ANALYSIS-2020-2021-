@@ -164,5 +164,5 @@ Based on the findings, the following recommendations are proposed:
 
 ## Dashboard Screenshots
 
-### (Overview.png)
-### 
+### Overview.png
+### Product Performance.png
